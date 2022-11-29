@@ -1,4 +1,4 @@
-# Loja Java Java.
+# Loja Java.
 
 A ideia do sistema é um programa que gerencia o estoque e saídas (vendas) de uma loja. O programa executa no console, utilizando Scanner para receber os dados do usuário.
 O sistema usa ArrayList para armazenar os valores atribuidos durante a execução do programa, não permitindo a persistência dos dados. O planejamento inclui adicionar um ConnectionFactory para fazer os INSERTS em um banco relacional.
